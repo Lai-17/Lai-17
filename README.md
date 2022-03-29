@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Lai-17
-- 👀 I’m interested in coding as we all are
-- 🌱 I’m currently learning Django and React Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning ExpressJS and Material UI
+- I have 1 year experience in the Django Python Framework and ReactJS
+
+
 
 <!---
 Lai-17/Lai-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
